@@ -1,5 +1,5 @@
 ---
-title: Valera Vilks Website
+title: Valera Vilks Website 2
 layout: "base.njk"
 ---
 
