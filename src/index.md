@@ -1,6 +1,6 @@
 ---
-title: Hello World
+title: Valera Vilks Website
 layout: "base.njk"
 ---
 
-Hello Content
+[My Email](mailto:valeravilks.com)
